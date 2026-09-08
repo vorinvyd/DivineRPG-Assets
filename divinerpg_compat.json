@@ -1,7 +1,9 @@
 {
 	"homepage": "https://www.curseforge.com/minecraft/mc-mods/divinerpg-compatability",
 	"1.21.1": {
-		"1.0.3": "initial port",
+		"1.0.5": "immersive portals",
+		"1.0.4": "bug fix",
+		"1.0.3": "initial port"
 	},
 	"1.20.1": {
 		"1.0.2": "bug fixes",
@@ -9,8 +11,8 @@
 		"1.0.0": "initial release"
 	},
 	"promos": {
-		"1.21.1-latest": "1.0.3",
-		"1.21.1-recommended": "1.0.3"
+		"1.21.1-latest": "1.0.5",
+		"1.21.1-recommended": "1.0.5"
 		"1.20.1-latest": "1.0.2",
 		"1.20.1-recommended": "1.0.2"
 	}
